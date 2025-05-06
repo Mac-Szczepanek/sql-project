@@ -17,12 +17,15 @@ Na podstawie dotychczasowych fragmentów projektu można wyodrębnić następuj�
 🔍 Zarządzanie pacjentami i ich historią leczenia:
 - Możliwość przeglądania historii wizyt i diagnoz pacjenta.
 - Rejestrowanie zabiegów i przepisywanych leków.
+
 👩‍⚕️ Wspomaganie pracy personelu medycznego:
 - Przypisywanie lekarzy do wizyt i zabiegów.
 - Przegląd harmonogramów wizyt i historii pacjentów.
+
 💊 Obsługa leków i recept:
 - Ewidencjonowanie leków, które zostały przepisane.
 - Umożliwienie raportowania, jakie leki są najczęściej stosowane.
+
 🏥 Zarządzanie strukturą organizacyjną placówki:
 - Przypisanie lekarzy do oddziałów.
 - Analiza obłożenia oddziałów, liczby wykonanych zabiegów.
