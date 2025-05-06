@@ -5,7 +5,7 @@ Baza danych ma za zadanie umożliwić sprawne gromadzenie, przechowywanie, zarz�
 Na podstawie dotychczasowych fragmentów projektu można wyodrębnić następujące tabele i ich znaczenie:
 - Pacjenci (Pacjent) – zawiera dane osobowe pacjentów (imię, nazwisko, PESEL, kontakt).
 - Lekarze (Lekarz) – przechowuje dane lekarzy (imię, nazwisko, specjalizacja, numer prawa wykonywania zawodu).
-- Oddziały (Oddzial) – opisuje różne jednostki organizacyjne placówki, np. interna, chirurgia, kardiologia.
+- Oddziały (Oddział) – opisuje różne jednostki organizacyjne placówki, np. interna, chirurgia, kardiologia.
 - Wizyty (Wizyta) – rejestruje szczegóły dotyczące wizyt pacjentów, łącznie z lekarzem prowadzącym, datą i diagnozą.
 - Diagnozy (Diagnoza) – przechowuje kody i opisy rozpoznań stawianych pacjentom.
 - Recepty (Recepta) – zawiera dane o wystawionych receptach, przypisanych do wizyt.
